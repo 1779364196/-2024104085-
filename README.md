@@ -5,7 +5,8 @@
 ## 复现说明
 ### 运行环境
 Name                    Version                   Build  Channel
-brotli-python             1.0.9           py312hd77b12b_8    defaults
+brotli-python             1.0.9           py312hd77b12b_8    defaults  
+
 gitpython                 3.1.37          py312haa95532_0    defaults
 ipython                   8.25.0          py312haa95532_0    defaults
 ipython_genutils          0.2.0              pyhd3eb1b0_1    defaults
