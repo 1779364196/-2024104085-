@@ -5,9 +5,9 @@
 ## 数据
 原始数据我已上传至github，可以在CMABSTdata文件夹中查看。  
 另外，我将数据链接也贴在此处，读者可以去原始网站访问。https://tcdata.typhoon.org.cn/zjljsjj.html  
+## 复现说明 
 ### 复现步骤  
-下载编程基础大作业.ipynb文件，使用jupyter notebook将其打开，依次运行代码块即可。  
-## 复现说明  
+下载编程基础大作业.ipynb文件，使用jupyter notebook将其打开，依次运行代码块即可。   
 ### 运行环境  
 Name                    Version                   Build  Channel  
 brotli-python             1.0.9           py312hd77b12b_8    defaults  
