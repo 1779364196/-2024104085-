@@ -2,6 +2,9 @@
 # -Final-  
 ## 项目简介  
 本项目基于中国气象局热带气旋资料中心的台风数据，通过对模型的简化处理，使用所学知识对台风路径进行预测。  
+## 数据
+原始数据我已上传至github，可以在CMABSTdata文件夹中查看。  
+另外，我将数据链接也贴在此处，读者可以去原始网站访问。https://tcdata.typhoon.org.cn/zjljsjj.html  
 ## 复现说明  
 ### 运行环境  
 Name                    Version                   Build  Channel  
