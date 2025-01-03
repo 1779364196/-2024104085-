@@ -5,6 +5,8 @@
 ## 数据
 原始数据我已上传至github，可以在CMABSTdata文件夹中查看。  
 另外，我将数据链接也贴在此处，读者可以去原始网站访问。https://tcdata.typhoon.org.cn/zjljsjj.html  
+### 复现步骤  
+下载编程基础大作业.ipynb文件，使用jupyter notebook将其打开，依次运行代码块即可。  
 ## 复现说明  
 ### 运行环境  
 Name                    Version                   Build  Channel  
@@ -571,6 +573,4 @@ zope                      1.0             py312haa95532_1    defaults
 zope.interface            5.4.0           py312h2bbff1b_0    defaults  
 zstandard                 0.22.0          py312h3469f8a_0    defaults  
 zstd                      1.5.5                hd43e919_2    defaults    
-### 复现步骤  
-下载编程基础大作业.ipynb文件，使用jupyter notebook将其打开，依次运行代码块即可。  
 
